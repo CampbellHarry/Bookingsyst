@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    color: rgb(27, 27, 27);;
+}
+header{
+    padding: 10px 0;
+    background-color: #007AC2;
+    box-shadow: 5px 5px 40px gray;
+}
+li {
+    list-style-type: none;
+}
+
+footer {
+    box-shadow: 1px 7px 1px #007AC2;
+    padding: 20px; /* Add padding to create space for the content inside the footer */
+}
+
+footer ul {
+    margin: 0; /* Reset margin on the ul element */
+    padding: 0; /* Reset padding on the ul element */
+}
+.acccont{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    float: right;
+    clear: right;
+    text-align: center;
+}
